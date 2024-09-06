@@ -4,7 +4,7 @@
 
 Com essa pequena aplicação, você pode descobrir! 
 
-Como funciona a magia? ✨
+**Como funciona a magia? ✨**
 
 Quer saber como a pesquisa funciona? É simples!
 
