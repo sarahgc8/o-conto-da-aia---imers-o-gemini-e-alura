@@ -25,3 +25,6 @@ Resultados: Se encontrar alguma correspondência, a aplicação cria uma lista c
 1. **Clone o repositório:** 
    ```bash
    git clone https://seu-repositorio.git
+2. **Use o link:**
+   https://o-conto-da-aia-imersao-gemini-e-alura.vercel.app/
+   
